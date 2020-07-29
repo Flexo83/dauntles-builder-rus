@@ -3,5 +3,5 @@ icon: /assets/icons/lanterns/GenericLantern.png
 description: null
 cells: Слот поддержки
 lantern_ability:
-  instant: Grants a 50 hit point shield (doesn't stack)
-  hold: Disperses aether that allows the Slayer to track the Behemoth.
+  instant: Дает 50 ед. щита (эффект не суммируется)
+  hold: Распыляет эфир, позволяя Следопыту выследить Чудовище.
