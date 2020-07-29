@@ -3,5 +3,5 @@ icon: /assets/icons/lanterns/KoshaisBloom.png
 description: null
 cells: Слот поддержки
 lantern_ability:
-  instant: 10% of damage dealt will heal you for 8 seconds.
-  hold: Dash in a direction, deal 750 Terra damage to nearby enemies upon arrival.
+  instant: В течение 8 секунд 10% от наносимого урона конвертируются в исцеление.
+  hold: Совершает рывок в выбранном направлении, нанося в точке приземления 750 ед. урона ближайшим Чудовищам.
