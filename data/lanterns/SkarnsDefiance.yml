@@ -3,5 +3,5 @@ icon: /assets/icons/lanterns/SkarnsDefiance.png
 description: null
 cells: Слот поддержки
 lantern_ability:
-  instant: Grants a 250 hit point shield for 6 seconds.
-  hold: Surrounds the slayer in swirling stone that deals 900 Terra damage to nearby enemies over 10 seconds.
+  instant: Дает на 6 секунд щит, выдерживающий 250 ед. урона.
+  hold: Окружает Следопыта вихрем камней, наносящих ближайшим чудовищам 900 ед. природного урона в течении 10 секунд.
