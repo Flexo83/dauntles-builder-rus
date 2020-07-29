@@ -1,7 +1,7 @@
-name: Shrike's Zeal
+name: Рвение Шрайка
 icon: /assets/icons/lanterns/ShrikesZeal.png
 description: null
 cells: Слот поддержки
 lantern_ability:
-  instant: Move 40% faster for 6 seconds.
-  hold: Creates an aura that grants nearby slayers 15% increased move speed and attack speed for 15 seconds.
+  instant: Увеличивает скорость передвижения на 40% в течение 6 секунд.
+  hold: Создает ауру, повышающую скорость атаки и передвижения ближайших Следопытов на 15% в течение 15 секунд.
