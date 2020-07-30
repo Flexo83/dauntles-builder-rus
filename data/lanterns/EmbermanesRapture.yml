@@ -1,7 +1,7 @@
 name: Упоение Эмбермейна
 icon: /assets/icons/lanterns/EmbermanesRapture.png
 description: null
-cells: Слот поддержки   
+cells: Utility   
 lantern_ability:
   instant: Увеличивает скорость атаки на 25% в течение 8 секунд.
   hold: Создает перед вами огненный шар, который взрывается через 5 секунд, нанося вррагам поблизости 850 ед. пламенного урона.
