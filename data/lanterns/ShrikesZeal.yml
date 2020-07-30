@@ -1,7 +1,7 @@
 name: Рвение Шрайка
 icon: /assets/icons/lanterns/ShrikesZeal.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: Увеличивает скорость передвижения на 40% в течение 6 секунд.
   hold: Создает ауру, повышающую скорость атаки и передвижения ближайших Следопытов на 15% в течение 15 секунд.
