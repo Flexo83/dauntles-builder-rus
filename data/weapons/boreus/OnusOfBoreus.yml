@@ -1,9 +1,9 @@
 name: Бремя Борея
-description: A Slayer's sword forged with Boreus trophies.
+description: Меч Убийцы, выкованный из трофеев с Борея.
 icon: /assets/icons/weapons/boreus/OnusOfBoreus.png
-type: Меч
+type: Sword
 damage: Slashing
-elemental: Мороз
+elemental: Frost
 cells: [Power, Defence]
 power:
   0: 100
