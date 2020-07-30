@@ -3,7 +3,7 @@ description: Меч убийцы, выкованный из трофеев с Ч
 icon: /assets/icons/weapons/charrogg/CharredSaber.png
 type: Меч
 damage: Cutting
-elemental: Blaze
+elemental: Пламя
 cells: [Ячейка силы, Ячейка защиты]
 power:
   0: 100
