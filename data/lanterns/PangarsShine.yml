@@ -1,7 +1,7 @@
 name: Сияние Пангара
 icon: /assets/icons/lanterns/PangarsShine.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: Восстанавливает 25% от максимального запаса выносливости.
   hold: Создает перед вами ледяной столп, наносящий всем врагам поблизости вплоть до 960 ед. морозного урона в течении 12 секунд.
