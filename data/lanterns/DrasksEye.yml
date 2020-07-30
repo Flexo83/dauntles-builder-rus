@@ -1,7 +1,7 @@
 name: Око Драска
 icon: /assets/icons/lanterns/DrasksEye.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: Увеличивает наносимый урон на 30% в течение 6 секунд.
   hold: Выпускает заряд молнии, который проходя через противника, неоднократно наносит по 150 ед. электрического урона.
