@@ -1,10 +1,10 @@
-name: Charred Saber
+name: Обугленный меч
 description: A Slayer's sword forged with Charrogg trophies.
 icon: /assets/icons/weapons/charrogg/CharredSaber.png
-type: Sword
+type: Меч
 damage: Cutting
 elemental: Blaze
-cells: [Power, Defence]
+cells: [Ячейка силы, Ячейка защиты]
 power:
   0: 100
   1: 140
@@ -38,5 +38,5 @@ perks:
 unique_effects:
   - name: CharrogSpentStaminaFireDamage
     description: |
-      After spending 200 stamina, next attack emits a cone of flame that deals +150 blaze damage to each
-      unique targets within the cone.
+      После того, как вы потратите 200 ед. выносливости, ваша следующая атака создает конус пламени
+      наносящий каждой отдельной цели 150 ед. пламенного урона.
