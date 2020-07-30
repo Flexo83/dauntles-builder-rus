@@ -1,7 +1,7 @@
 name: Фонарь новобранца
 icon: /assets/icons/lanterns/GenericLantern.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: Дает 50 ед. щита (эффект не суммируется)
   hold: Распыляет эфир, позволяя Следопыту выследить Чудовище.
