@@ -1,7 +1,7 @@
 name: Бутон Кошая
 icon: /assets/icons/lanterns/KoshaisBloom.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: В течение 8 секунд 10% от наносимого урона конвертируются в исцеление.
   hold: Совершает рывок в выбранном направлении, нанося в точке приземления 750 ед. урона ближайшим Чудовищам.
