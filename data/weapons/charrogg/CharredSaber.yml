@@ -1,9 +1,9 @@
 name: Обугленный меч
 description: Меч убийцы, выкованный из трофеев с Чаррога.
 icon: /assets/icons/weapons/charrogg/CharredSaber.png
-type: Меч
+type: Sword
 damage: Cutting
-elemental: Пламя
+elemental: Blaze
 cells: [Power, Defence]
 power:
   0: 100
