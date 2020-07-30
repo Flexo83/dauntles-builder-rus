@@ -1,10 +1,10 @@
-name: Onus of Boreus
+name: Бремя Борея
 description: A Slayer's sword forged with Boreus trophies.
 icon: /assets/icons/weapons/boreus/OnusOfBoreus.png
-type: Sword
+type: Меч
 damage: Slashing
-elemental: Frost
-cells: [Power, Defence]
+elemental: Мороз
+cells: [Ячейка силы, Ячейка защиты]
 power:
   0: 100
   1: 140
@@ -38,22 +38,25 @@ perks:
 unique_effects:
   - name: BoreusFrostSprite
     description: >-
-      Using a Special continually generates Frost Sprites that cause your next attack to deal
-      30 bonus damage and minor frost damage. Max 4 Sprites.
+      Во время действия способности вы непрерывно создаете морозных духов, которые увеличивают
+      основной урон от вашей следующей атаки на 30 единиц, а также наносят небольшое количество
+      морозного урона. Максимум 4 духа.
     value: 30
     from: 0
     to: 5
   - name: BoreusFrostSprite
     description: >-
-      Using a Special continually generates Frost Sprites that cause your next attack to deal
-      45 bonus damage and minor frost damage. Max 4 Sprites.
+      Во время действия способности вы непрерывно создаете морозных духов, которые увеличивают
+      основной урон от вашей следующей атаки на 45 единиц, а также наносят небольшое количество
+      морозного урона. Максимум 4 духа.
     value: 45
     from: 6
     to: 9
   - name: BoreusFrostSprite
     description: >-
-      Using a Special continually generates Frost Sprites that cause your next attack to deal
-      60 bonus damage and minor frost damage. Max 4 Sprites.
+      Во время действия способности вы непрерывно создаете морозных духов, которые увеличивают
+      основной урон от вашей следующей атаки на 60 единиц, а также наносят небольшое количество
+      морозного урона. Максимум 4 духа.
     value: 60
     from: 10
     to: 15
