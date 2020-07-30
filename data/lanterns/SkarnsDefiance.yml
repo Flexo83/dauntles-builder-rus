@@ -1,7 +1,7 @@
 name: Неповинование Скарна
 icon: /assets/icons/lanterns/SkarnsDefiance.png
 description: null
-cells: Слот поддержки
+cells: Utility
 lantern_ability:
   instant: Дает на 6 секунд щит, выдерживающий 250 ед. урона.
   hold: Окружает Следопыта вихрем камней, наносящих ближайшим чудовищам 900 ед. природного урона в течении 10 секунд.
