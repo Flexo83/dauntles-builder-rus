@@ -4,7 +4,7 @@ icon: /assets/icons/weapons/charrogg/CharredSaber.png
 type: Меч
 damage: Cutting
 elemental: Пламя
-cells: [Ячейка силы, Ячейка защиты]
+cells: [Power, Defence]
 power:
   0: 100
   1: 140
