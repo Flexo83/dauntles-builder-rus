@@ -1,5 +1,5 @@
-name: Recruit's Sword
-description: A Simple blade for slaying behemoths.
+name: Меч новобранца
+description: Обычный меч для убийства чудовищ.
 icon: /assets/icons/weapons/generic/RecruitsSword.png
 type: Sword
 damage: Slashing
