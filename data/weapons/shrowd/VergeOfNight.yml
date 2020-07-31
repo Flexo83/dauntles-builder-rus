@@ -1,5 +1,5 @@
-name: Verge of Night
-description: A Slayer's sword forged with Shrowd trophies.
+name: Грань ночи
+description: Меч Убийцы, выкованный из трофеев с Шрауда
 icon: /assets/icons/weapons/shrowd/VergeOfNight.png
 type: Sword
 damage: Slashing
@@ -37,5 +37,5 @@ perks:
     to: 15
 unique_effects:
   - name: LowHpDamage
-    description: When under 20% health, deal +50% damage
+    description: Когда здоровье ниже 20%, вы наносите на 50% больше урона
     value: 1.5
