@@ -1,5 +1,5 @@
-name: The Hunger
-description: The Hunger is a craftable Exotic weapon in Dauntless. It is crafted from Shrowd reagents.
+name: Голод
+description: Голод - экзотическое создаваемое оружие в Dauntless. Изготавливается из частей тела Шрауда.
 icon: /assets/icons/weapons/shrowd/TheHunger.png
 type: Sword
 damage: Slashing
@@ -27,5 +27,5 @@ power:
 unique_effects:
   - name: TheHungerEffect
     description: >-
-      Activate to enter Feast, taking damage over time but gaining significant lifesteal,
-      attack speed, and creating aetheric waves with each attack that deal area damage.
+      Активируйте, чтобы перейти в режим Ненасытности, в котором вы постепенно теряете здоровье,
+      но при этом обладаете значительным эффектом вампиризма 
