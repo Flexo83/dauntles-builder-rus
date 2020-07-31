@@ -1,5 +1,5 @@
-name: Winter Ice
-description: A Slayer's sword forged with Skraev trophies.
+name: Зимний лед
+description: Меч Убийцы, выкованный из трофеев с Скрейва.
 icon: /assets/icons/weapons/skraev/WinterIce.png
 type: Sword
 damage: Slashing
@@ -37,14 +37,17 @@ perks:
     to: 15
 unique_effects:
   - name: IceMines
-    description: Evading drops 1 Ice Mines on a 30 second cooldown.
+    description: Раз в 30 секунд, совершая уклонение, вы разбрасываете
+    вокруг себя мины (1), наносящие 300 ед. урона.
     from: 0
     to: 5
   - name: IceMines
-    description: Evading drops 2 Ice Mines on a 30 second cooldown.
+    description: Раз в 30 секунд, совершая уклонение, вы разбрасываете
+    вокруг себя мины (2), наносящие 300 ед. урона.
     from: 6
     to: 9
   - name: IceMines
-    description: Evading drops 3 Ice Mines on a 30 second cooldown.
+    description: Раз в 30 секунд, совершая уклонение, вы разбрасываете
+    вокруг себя мины (3), наносящие 300 ед. урона.
     from: 10
     to: 15
