@@ -1,5 +1,5 @@
-name: Voidbane
-description: A Slayer's sword forged with Thrax trophies.
+name: Бич бездны
+description: Меч Убийцы, выкованный из трофеев с Тракса
 icon: /assets/icons/weapons/thrax/Voidbane.png
 type: Sword
 damage: Slashing
@@ -27,5 +27,6 @@ bond:
 unique_effects:
   - name: ThraxLegendaryAbility
     description: >-
-      Legendary Ability: Deal umbral damage to nearby enemies and teleport high into the sky. Then choose a spot
-      to slam down on to, dealing additional umbral damage. Usable once, but resets on Behemoth kill.
+      Legendary Ability: Нанесите сумрачный урон и взмойти высоко в небо. Выберите точку приземления,
+      чтобы совершить мощный удар и нанести дополнительный сумрачный урон. Используется единожды, 
+      но обновляется после победы над Чудовищем.
