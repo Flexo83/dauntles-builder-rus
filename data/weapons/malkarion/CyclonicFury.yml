@@ -1,5 +1,5 @@
-name: Cyclonic Fury
-description: A Slayer's sword forged with Malkarion trophies.
+name: Ураганная ярость
+description: Меч Убийцы, выкованный из трофеев с Малкариона
 icon: /assets/icons/weapons/malkarion/CyclonicFury.png
 type: Sword
 damage: Slashing
@@ -26,4 +26,4 @@ bond:
   elemental: Shock
 unique_effects:
   - name: MalkarionLegendaryAbility
-    description: "Legendary Ability: Teleport to a Behemoth, dealing Shock damage. Usable once, but resets on Behemoth kill."
+    description: "Легендарная способность: Телепортирует к Чудовищу и наносит электрический урон. Используется единожды, но обновляется после победы над Чудовищем"
