@@ -1,4 +1,4 @@
-## dauntless-builder-ru
+## dauntless-builder-rus
 Перевод билдера игры Dauntless от создателя Кристофера Кастера aka atomicptr
 
 Данный рабочий билдер на английском (канадском) языке находится [здесь](https://www.dauntless-builder.com/)
