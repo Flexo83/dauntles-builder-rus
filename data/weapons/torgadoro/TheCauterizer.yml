@@ -1,5 +1,5 @@
-name: The Cauterizer
-description: A Slayer's sword forged with Torgadoro trophies.
+name: Клеймитель
+description: Меч Убийцы, выкованный из трофеев с Торгадоро
 icon: /assets/icons/weapons/torgadoro/TheCauterizer.png
 type: Sword
 damage: Slashing
@@ -27,5 +27,6 @@ bond:
 unique_effects:
   - name: TorgadoroLegendaryAbility
     description: |
-      Legendary Ability: Enter a rage, gaining new attacks for 15 seconds. Deals +25% damage when the target is below
-      50% health. Usable once, but resets on Behemoth kill.
+      Легендарная способность: Позволяет войти в состоянии ярости, приобретая новые атаки на 15 секунд.
+      Наносит на 25% больше урона, если запас здоровья цели меньше 50%. Используется единожды, но 
+      обновляется после победы над Чудовищем.
