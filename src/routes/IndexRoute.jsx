@@ -47,7 +47,7 @@ export default class IndexRoute extends React.Component {
                     <div className="column">
                         <a href="https://reddit.com/r/dauntless" target="_blank" rel="noopener noreferrer">
                             <div className="tile notification is-light feature-tile">
-                                <p className="title">/r/dauntless</p>
+                                <p className="title">Reddit</p>
                                 <div className="feature-tile-background">
                                     <i className="fab fa-reddit"></i>
                                 </div>
