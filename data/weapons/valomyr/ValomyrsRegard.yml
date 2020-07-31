@@ -1,5 +1,5 @@
-name: Valomyr's Regard
-description: A Slayer's sword forged with Valomyr trophies.
+name: Воззрение Валомира
+description: Меч Убийцы, выкованный из трофеев с Валомира
 icon: /assets/icons/weapons/valomyr/ValomyrsRegard.png
 type: Sword
 damage: Slashing
@@ -38,22 +38,22 @@ perks:
 unique_effects:
   - name: ValomyrCharge
     description: >-
-      Once charged, your next attack will deal 300 bonus radiant damage.
-      Charge rate increases with current health.
+      После зарядки данного эффекта ваша следующая атака наносит 300 ед.
+      сияющего урона. Скорость зарядки зависит от текущего уровня здоровья.
     value: 300
     from: 0
     to: 5
   - name: ValomyrCharge
     description: >-
-      Once charged, your next attack will deal 425 bonus radiant damage.
-      Charge rate increases with current health.
+      После зарядки данного эффекта ваша следующая атака наносит 425 ед.
+      сияющего урона. Скорость зарядки зависит от текущего уровня здоровья.
     value: 425
     from: 6
     to: 9
   - name: ValomyrCharge
     description: >-
-      Once charged, your next attack will deal 550 bonus radiant damage.
-      Charge rate increases with current health.
+      После зарядки данного эффекта ваша следующая атака наносит 550 ед.
+      сияющего урона. Скорость зарядки зависит от текущего уровня здоровья.
     value: 550
     from: 10
     to: 15
