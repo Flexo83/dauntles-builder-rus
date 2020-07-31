@@ -1,5 +1,5 @@
-name: Skarn's Rancor
-description: A Slayer's sword forged with Skarn trophies.
+name: Свирепость Скарна
+description: Меч Убийцы, выкованный из трофеев с Скарна
 icon: /assets/icons/weapons/skarn/SkarnsRancor.png
 type: Sword
 damage: Slashing
@@ -38,22 +38,22 @@ perks:
 unique_effects:
   - name: DamageChanceStackShield
     description: >-
-      Dealing damage has a chance (based on damage dealt) to grant a stacking,
-      refreshing 20 health shield that lasts for 12s
+      При нанесении урона есть шанс (зависящий от нанесенного урона) получить суммируемый,
+      обновляемый щит, поглощающий 20 ед. урона в течении 12 сек.
     value: 20
     from: 0
     to: 5
   - name: DamageChanceStackShield
     description: >-
-      Dealing damage has a chance (based on damage dealt) to grant a stacking,
-      refreshing 30 health shield that lasts for 12s
+      При нанесении урона есть шанс (зависящий от нанесенного урона) получить суммируемый,
+      обновляемый щит, поглощающий 30 ед. урона в течении 12 сек.
     value: 30
     from: 6
     to: 9
   - name: DamageChanceStackShield
     description: >-
-      Dealing damage has a chance (based on damage dealt) to grant a stacking,
-      refreshing 40 health shield that lasts for 12s
+      При нанесении урона есть шанс (зависящий от нанесенного урона) получить суммируемый,
+      обновляемый щит, поглощающий 40 ед. урона в течении 12 сек.
     value: 40
     from: 10
     to: 15
